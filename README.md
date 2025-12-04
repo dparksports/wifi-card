@@ -3,7 +3,7 @@
 **WifiCard** allows you to share your Wi-Fi connection instantly via a QR code.
 
 <p align="center">
-  <img src="screenshots/demo1.png" width="45%" alt="WifiCard Screenshot 1" />
+  <img src="screenshots/demo.png" width="45%" alt="WifiCard Screenshot 1" />
 </p>
 
 ## Download
