@@ -8,7 +8,7 @@
 
 ## Download
 
-[**Download WifiCard.dmg**](https://github.com/dparksports/wificard-dist/raw/main/WifiCard.dmg)
+[**Download WifiCard.dmg**](https://github.com/dparksports/wifi-card/releases/download/v1.9/WifiCard.dmg)
 
 ### Integrity
 **SHA-256 Checksum:**
